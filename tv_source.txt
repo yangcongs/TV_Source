@@ -1,1 +1,15 @@
+央视,#genre#
+CCTV-1 综合：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=b395fbc1-a6c1-4f27-8885-fcd17e94ac2a 
+CCTV-2 财经：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8744a3df-ecea-4cff-bcff-6da8e6edb2ed 
+CCTV-4 中文国际：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=84bfb218-9281-48ba-9317-83f5e4ac3cab 
+CCTV-7 国防军事：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694&toc_style_id=feeds_only_back&share_to=copy_url&track_id=57f1f2b6-6f38-41df-82c1-7919750c87c9 
+CCTV-9 纪录：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8c9d3594-4c33-4447-9e82-b4254465e576 
+CCTV-10 科教：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119&toc_style_id=feeds_only_back&share_to=copy_url&track_id=5d460321-164a-47cf-b1b5-a8e9adc773e7 
+CCTV-12 社会与法：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=13180385922471124325&toc_style_id=feeds_only_back&share_to=copy_url&track_id=4b01e817-cdb1-45c2-85c7-1699c4c5f04d 
+CCTV-13 新闻：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=14d70160-03dc-40b1-94a0-c3c3244e6955 
+CCTV-17 农业农村：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934&toc_style_id=feeds_only_back&share_to=copy_url&track_id=d4bcd034-9dcc-4494-8235-5a00fdf7776f CCTV-4K：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403&toc_style_id=feeds_only_back&share_to=copy_url&track_id=5791797f-68f0-470e-a7b0-9a601a1bc622
 
+
+卫视,#genre#
+湖南卫视,http://你的源地址/hunan.m3u8
+浙江卫视,http://你的源地址/zhejiang.m3u8

@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV-1 综合：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=b395fbc1-a6c1-4f27-8885-fcd17e94ac2a 
+CCTV-1 综合：http://192.151.152.210:8090/live/cctv1md.m3u8?u=123.12.211.120-hz05-7&t=1792762071&k=adf00528f7d088323b65577a8e13d4e4 
 CCTV-2 财经：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8744a3df-ecea-4cff-bcff-6da8e6edb2ed 
 CCTV-4 中文国际：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=84bfb218-9281-48ba-9317-83f5e4ac3cab 
 CCTV-7 国防军事：https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694&toc_style_id=feeds_only_back&share_to=copy_url&track_id=57f1f2b6-6f38-41df-82c1-7919750c87c9 
